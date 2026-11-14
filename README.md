@@ -1,4 +1,4 @@
-# Olá, mundo! 👋 Eu sou o Vitor Mello
+# Olá, Bem Vindo(a)! 👋 Eu sou o Vitor Mello
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Em%20Busca%20de%20Oportunidades-brightgreen?style=for-the-badge&logo=appveyor" alt="Status">
