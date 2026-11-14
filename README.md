@@ -1,4 +1,7 @@
-![Capa Vitor Mello](./capa%20que.webp)
+<p align="center">
+  <img src="./capa%20que.webp" alt="Capa do Portfólio" width="100%">
+</p>
+
 # Olá, Bem Vindo(a)! 👋 Eu sou o Vitor Mello
 
 <p align="left">
