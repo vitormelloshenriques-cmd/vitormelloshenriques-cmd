@@ -1,5 +1,5 @@
-![Capa do Portfólio](https://github.com/vitormelloshenriques-cmd/vitormelloshenriques-cmd/blob/main/capa%20que.webp?raw=true)
-# Olá, Bem Vindo(a)! 👋 Eu sou o Vitor Mello
+<img width="1024" height="254" alt="capa portfólio" src="https://github.com/user-attachments/assets/79454ebe-72d2-478e-89a4-9686f3393c08" />
+
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Em%20Busca%20de%20Oportunidades-brightgreen?style=for-the-badge&logo=appveyor" alt="Status">
