@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="./capa%20que.webp" alt="Capa do Portfólio" width="100%">
-</p>
-
+![Capa do Portfólio](https://github.com/vitormelloshenriques-cmd/vitormelloshenriques-cmd/blob/main/capa%20que.webp?raw=true)
 # Olá, Bem Vindo(a)! 👋 Eu sou o Vitor Mello
 
 <p align="left">
