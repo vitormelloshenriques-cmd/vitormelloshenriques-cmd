@@ -46,5 +46,7 @@ Sou um jovem profissional de 19 anos, técnico em **Eletrônica** formado pela [
 * **Localidade:** Rio de Janeiro, RJ - Brasil 🇧🇷
 
 ---
-*“Nenhum conhecimento se perde; tudo o que a gente aprende vira bagagem para o próximo passo.”*
+> *"A mente que se abre a uma nova ideia jamais voltará ao seu tamanho original."*  
+> — **Albert Einstein**
+
 
